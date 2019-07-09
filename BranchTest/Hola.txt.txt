@@ -1,2 +1,6 @@
 Mi nombre es Paulo Gerardo Ramos Orozco
+<<<<<<< HEAD
 Y soy de Mexico de la ciudad de Mexico
+=======
+Y soy de Mexico y de Guadalajara
+>>>>>>> log_brch
