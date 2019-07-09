@@ -3,3 +3,5 @@ Hola Ramita
 Ere de color Azul
 
 Te agrego un limpiador de datos
+
+Y un buscador de 0´s
